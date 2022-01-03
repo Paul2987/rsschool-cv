@@ -1,17 +1,17 @@
 # **Pavel Perovich**
-# Front-End Developer
+## Front-End Developer
 
 *contact info:*
 
 Phone: +375 44 742 44 85
 
 E-mail: perovichpk@gmail.com
-***
+****
 
 ## **About me**
 
 Looking forward to become a frontend developer. 
-***
+****
 
 ## **Skills and Proficiency**
 
@@ -19,7 +19,7 @@ Looking forward to become a frontend developer.
 * JavaScript
 * Git, Github
 * VS Code
-***
+****
 
 ## **Code example**
 
@@ -29,12 +29,12 @@ function getRandomElement(arr) {
   return arr[randIndex];
 }
 ```
-***
+****
 
 ## **Experience**
 
 Not yet.
-***
+****
 
 ## **Education**
 
@@ -42,7 +42,7 @@ Not yet.
 * Courses:
     + Yandex Frontend Developer course
     + RS-School (in progress)
-***
+****
 
 ## **Language**
 
