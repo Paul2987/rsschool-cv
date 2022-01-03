@@ -2,7 +2,9 @@
 # Front-End Developer
 ****
 *contact info:*
+
 Phone: +375 44 742 44 85
+
 E-mail: perovichpk@gmail.com
 
 ## **About me**
